@@ -22,4 +22,5 @@ The limited use of the Service will be improved upon with later implementations,
 Example:
 
 Page upon intial loadup
+
 ![alt text] https://github.com/Alexander-Aghili/AddressBookAndroid/blob/master/Instructions/FirstPage.png
