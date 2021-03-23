@@ -24,3 +24,7 @@ Example:
 Page upon intial loadup
 
 ![alt text](https://github.com/Alexander-Aghili/AddressBookAndroid/blob/master/Instructions/FirstPage.png)
+
+Once you click the Add Contact button, you will be taken to this page.
+
+![alt text}(https://github.com/Alexander-Aghili/AddressBookAndroid/blob/master/Instructions/SecondSSAndroid.png)
