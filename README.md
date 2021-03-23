@@ -23,4 +23,4 @@ Example:
 
 Page upon intial loadup
 
-![alt text] (https://github.com/Alexander-Aghili/AddressBookAndroid/blob/master/Instructions/FirstPage.png)
+![alt text](https://github.com/Alexander-Aghili/AddressBookAndroid/blob/master/Instructions/FirstPage.png)
