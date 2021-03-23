@@ -1,7 +1,8 @@
 # AddressBookAndroid
 
-This will guide you on how to download and run the app. 
-Screenshots and other instructions will be in the instructions folder.
+This will guide you on how to download and run the app.
+
+Download the code directly into the AndroidStudioProjects or similar directory, and run the code. You may attempt it on any device above Marshmellow 6.0, however, only API 29 and 30 are guaranteed to work.
 
 Tested Devices:
 - Pixel 3a API 29 Emulator
@@ -16,3 +17,7 @@ How it works:
   6. The name will appear on the list, you may add another using the same process. The names will not persist.
 
 The limited use of the Service will be improved upon with later implementations, as I felt the service often made tasks more difficult. When the implementation of the service allows for needed agility, I will add that in. 
+
+
+Example:
+Page upon intial loadup
