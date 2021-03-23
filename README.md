@@ -21,10 +21,18 @@ The limited use of the Service will be improved upon with later implementations,
 
 Example:
 
-Page upon intial loadup
+Page upon intial loadup.
 
 ![alt text](https://github.com/Alexander-Aghili/AddressBookAndroid/blob/master/Instructions/FirstPage.png)
 
 Once you click the Add Contact button, you will be taken to this page.
 
-![alt text}(https://github.com/Alexander-Aghili/AddressBookAndroid/blob/master/Instructions/SecondSSAndroid.png)
+![alt text](https://github.com/Alexander-Aghili/AddressBookAndroid/blob/master/Instructions/SecondSSAndroid.png)
+
+Add a contact's first name into the name area.
+
+![alt text](https://github.com/Alexander-Aghili/AddressBookAndroid/blob/master/Instructions/ThirdSSAndroid.png)
+
+Click Add Contact in the bottom right and your contact will be added to the list.
+
+![alt text](https://github.com/Alexander-Aghili/AddressBookAndroid/blob/master/Instructions/FourthSSAndroid.png)
