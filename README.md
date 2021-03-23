@@ -16,7 +16,7 @@ How it works:
   5. If you want to add to the list, press Add Contact in the bottom right when you have entered the name. 
   6. The name will appear on the list, you may add another using the same process. The names will not persist.
 
-The limited use of the Service will be improved upon with later implementations, as I felt the service often made tasks more difficult. When the implementation of the service allows for needed agility, I will add that in. 
+The limited use of the Service will be improved upon with later implementations, as I felt the service often made tasks more difficult, slower, and more complex. When the implementation of the service allows for needed agility, I will add that in. 
 
 
 Example:
